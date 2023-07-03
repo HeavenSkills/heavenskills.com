@@ -45,9 +45,9 @@ header{
 }
 #wbg{
    max-width: 100%;
-   height:60%;
+   height:70%;
    margin-top: 60px;
-   background-size: cover;
+   background-size:cover;
 }
 ul li {
    padding:0px 20px;
